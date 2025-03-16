@@ -10,3 +10,6 @@ onnxruntime
 langgraph
 datasets
 matplotlib
+databricks
+databricks-api
+databricks-sdk
